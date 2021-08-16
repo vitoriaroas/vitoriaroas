@@ -1,5 +1,7 @@
 ### Welcome 👋
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 ### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical)
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaroas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
