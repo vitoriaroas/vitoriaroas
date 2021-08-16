@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 ### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical)
 
