@@ -1,8 +1,6 @@
-### Welcome 👋
+### Welcome 👋🏻
 
-### I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 
-
-### ![Visitor Count](https://profile-counter.glitch.me/{vitoriaroas}/count.svg)
+### I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 🦄
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
 
