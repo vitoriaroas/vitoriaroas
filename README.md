@@ -6,9 +6,9 @@
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
 
 
-### <h1 align="center"> ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical) </h1>
+### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical) 
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaroas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaroas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
