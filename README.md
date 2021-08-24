@@ -1,6 +1,7 @@
 ### Welcome 👋🏻
 
-### I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 🦄
+### <h1 align="center"> I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 🦄 </h1>
+##  📫 How to reach me: vitoriaroas@gmail.com
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
 
