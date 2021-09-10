@@ -1,7 +1,6 @@
 ###  Welcome 👋🏻 
 
 # <h1 align="center"> I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 🦄 </h1>
-##  📫 How to reach me: vitoriaroas@gmail.com
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
 
@@ -9,6 +8,17 @@
 ### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical) 
 
 ###  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaroas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+### Let's connect!
+
+
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+<br />
+<hr />
+
+[gmail]: mailto:vitoriaroas@gmail.com/
+[Linkedin]: https://www.linkedin.com/in/vitoria-roas-9b542618a/
 
 
 
