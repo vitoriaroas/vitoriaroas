@@ -1,4 +1,4 @@
-###  Welcome 👋🏻 
+###  Welcome 🤓 
 
 # <h1 align="center"> I am currently an Instructor Assistant at Boca Code. Passionate about teaching and developing. 🐣 </h1>
 
