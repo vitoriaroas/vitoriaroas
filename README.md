@@ -5,10 +5,16 @@
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
 
+### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/vitoriaroas)
+
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/vitoriaroas)
+
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/vitoriaroas)
+
 
 ### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical) 
 
-###  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaroas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ### Let's connect!
 
