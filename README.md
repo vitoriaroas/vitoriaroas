@@ -1,6 +1,6 @@
 ###  Welcome 👋🏻
 
-# <h1 align="center"> Passionate about teaching & developing. 🐣 </h1>
+# <h1 align="center"> Passionate about all things tech & developing. 🐣 </h1>
 
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-vitoriaroas&color=ff69b4)
